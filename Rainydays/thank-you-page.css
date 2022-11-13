@@ -1,0 +1,525 @@
+.thank-you-page-container {
+  min-height: 100vh;
+}
+.thank-you-page-frame15 {
+  width: 100%;
+  height: 1551px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.thank-you-page-group26 {
+  top: 0px;
+  left: 0px;
+  width: 1512px;
+  height: 1551px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.thank-you-page-mac-book-pro141 {
+  top: 0px;
+  left: 0px;
+  width: 1512px;
+  height: 1551px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.thank-you-page-tiktok1 {
+  top: 1478px;
+  left: 635px;
+  width: 29px;
+  height: 29px;
+  position: absolute;
+  border-color: transparent;
+}
+.thank-you-page-facebook1 {
+  top: 1478px;
+  left: 688px;
+  width: 29px;
+  height: 29px;
+  position: absolute;
+  border-color: transparent;
+}
+.thank-you-page-instagram1 {
+  top: 1478px;
+  left: 740px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+}
+.thank-you-page-twitter1 {
+  top: 1478px;
+  left: 794px;
+  width: 29px;
+  height: 29px;
+  position: absolute;
+  border-color: transparent;
+}
+.thank-you-page-linkedin1 {
+  top: 1478px;
+  left: 846px;
+  width: 30px;
+  height: 29px;
+  position: absolute;
+  border-color: transparent;
+}
+.thank-you-page-text {
+  top: 1401px;
+  left: 18px;
+  color: rgba(0, 0, 0, 1);
+  width: 362px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-text02 {
+  top: 1399px;
+  left: 1125px;
+  color: rgba(0, 0, 0, 1);
+  width: 362px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-text04 {
+  top: 1432px;
+  left: 1125px;
+  color: rgba(0, 0, 0, 1);
+  width: 362px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-text06 {
+  top: 1458px;
+  left: 1125px;
+  color: rgba(0, 0, 0, 1);
+  width: 362px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-text08 {
+  top: 1484px;
+  left: 1125px;
+  color: rgba(0, 0, 0, 1);
+  width: 362px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-text10 {
+  top: 1489px;
+  left: 18px;
+  color: rgba(0, 0, 0, 1);
+  width: 362px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-text12 {
+  top: 1439px;
+  left: 18px;
+  color: rgba(0, 0, 0, 1);
+  width: 362px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-text14 {
+  top: 1465px;
+  left: 18px;
+  color: rgba(0, 0, 0, 1);
+  width: 362px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-navlink {
+  display: contents;
+}
+.thank-you-page-rainy-days-logo {
+  top: 18px;
+  left: 663px;
+  width: 186px;
+  height: 101px;
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}
+.thank-you-page-navlink1 {
+  display: contents;
+}
+.thank-you-page-shoppingbag2 {
+  top: 44px;
+  left: 1434px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+  text-decoration: none;
+}
+.thank-you-page-searchinterfacesymbol2 {
+  top: 54px;
+  left: 1399px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.thank-you-page-text16 {
+  top: 55px;
+  left: 98px;
+  color: rgba(0, 0, 0, 1);
+  width: 77px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-text18 {
+  top: 55px;
+  left: 202px;
+  color: rgba(0, 0, 0, 1);
+  width: 104px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-text20 {
+  top: 55px;
+  left: 333px;
+  color: rgba(0, 0, 0, 1);
+  width: 126px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-text22 {
+  top: 55px;
+  left: 486px;
+  color: rgba(0, 0, 0, 1);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-group25 {
+  top: 1137px;
+  left: 1176px;
+  width: 260px;
+  height: 18px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.thank-you-page-text24 {
+  color: rgba(255, 255, 255, 1);
+  width: 260px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.thank-you-page-text26 {
+  top: 1589px;
+  left: 997px;
+  color: rgba(255, 255, 255, 1);
+  width: 260px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-tiktok3 {
+  top: 752px;
+  left: 590px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+}
+.thank-you-page-facebook3 {
+  top: 752px;
+  left: 663px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+}
+.thank-you-page-instagram3 {
+  top: 752px;
+  left: 735px;
+  width: 41px;
+  height: 41px;
+  position: absolute;
+  border-color: transparent;
+}
+.thank-you-page-twitter3 {
+  top: 752px;
+  left: 809px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+}
+.thank-you-page-linkedin3 {
+  top: 752px;
+  left: 881px;
+  width: 41px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+}
+.thank-you-page-text28 {
+  top: 454px;
+  left: 509px;
+  color: rgba(0, 0, 0, 1);
+  width: 496px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-text29 {
+  font-weight: 400;
+}
+.thank-you-page-text30 {
+  font-weight: 700;
+}
+.thank-you-page-text32 {
+  top: 627px;
+  left: 505px;
+  color: rgba(0, 0, 0, 1);
+  width: 495px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-text34 {
+  top: 369px;
+  left: 495px;
+  color: rgba(0, 0, 0, 1);
+  width: 522px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.thank-you-page-text39 {
+  top: 574px;
+  left: 495px;
+  color: rgba(0, 0, 0, 1);
+  width: 522px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
